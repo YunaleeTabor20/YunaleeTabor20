@@ -1,16 +1,50 @@
-## Hi there 👋
+ 
+ # Hi there 👋 I’m Yunalee Joy
 
-<!--
-**YunaleeTabor20/YunaleeTabor20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ A passionate learner and aspiring developer 
 
-Here are some ideas to get you started:
+💻 I enjoy building simple web projects using **HTML, CSS, PHP, and MySQL**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently improving my skills in **web development and system design**
+
+🛠️ I love turning ideas into functional and meaningful projects
+
+📚 Always learning, always growing
+
+“Progress may be slow, but I’m still moving forward.”
+
+### About Me
+
+I’m an aspiring web developer learning and building projects using **HTML, CSS, PHP, and MySQL**.  
+I believe consistency matters more than perfection, and every project helps me improve. 
+
+
+## 🧩 Skills
+
+💻 HTML
+🎨 CSS
+⚙️ Basic JavaScript
+🗄️ Basic MySQL
+🔧 Git & GitHub
+
+🤝 Teamwork
+🧠 Problem Solving
+⏱️ Time Management
+
+## 📫 Contact Me
+
+ 📧 Email: yunaleejoytabor@email.com  
+
+ 📞 Contact : 09559909677
+
+ 🐙 GitHub: https://github.com/YunaleeTabor20
+
+ 📸 Instagram: yuna_leyy
+
+ "A little progress each day adds up to big results." ✨
+
+
+
+
+
+
